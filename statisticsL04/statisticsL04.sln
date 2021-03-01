@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "statisticsL04", "statisticsL04\statisticsL04.pyproj", "{D26F2DDD-E27B-4C4B-ACE8-62D571B4CE33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26F2DDD-E27B-4C4B-ACE8-62D571B4CE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26F2DDD-E27B-4C4B-ACE8-62D571B4CE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DCE8AEB-5A9E-4A06-893F-72757D42374C}
+	EndGlobalSection
+EndGlobal

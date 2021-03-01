@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PL03Weather", "PL03Weather\PL03Weather.pyproj", "{C1EB0A69-1E66-4EB4-AA69-A2A66A1D14A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1EB0A69-1E66-4EB4-AA69-A2A66A1D14A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1EB0A69-1E66-4EB4-AA69-A2A66A1D14A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D72BED0A-E875-49D3-94CE-DC902B893424}
+	EndGlobalSection
+EndGlobal
